@@ -1,7 +1,7 @@
 <?php  
-	$contrasena = '';
-	$usuario = 'root';
-	$nombrebd= 'databasefruvermcp';
+	$contrasena = 'FruverMCP123';
+	$usuario = 'u991668360_fruvermcp';
+	$nombrebd= 'u991668360_fruvermcp';
 
 	try {
 		$bd = new PDO(
